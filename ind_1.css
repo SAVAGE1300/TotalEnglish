@@ -81,7 +81,7 @@ main{
 
 /*PRELOADER*/
 #preloader{
-    background: black url("./img/preloader4.gif") no-repeat center center;
+    background: black url("./img/preloader3.gif") no-repeat center center;
     height: 100%;
     width: 100%;
     position: fixed;
