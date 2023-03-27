@@ -296,6 +296,9 @@ body{
         float: right;
         display: block;
     }
+    #myTopnav{
+        width:100%;
+    }
 }
 
 @media screen and (max-width: 500px) {
